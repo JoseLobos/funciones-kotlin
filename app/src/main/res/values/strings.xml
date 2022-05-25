@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HolaMundoKotlin</string>
-    <string name="hola_mundo">HOLA MUNDO</string>
+
+        <string name="nombre">Escribe tu nombre</string>
+        <string name="edad">Escribe tu edad</string>
+        <string name="estado">Determinar estado</string>
+
 </resources>
